@@ -17,4 +17,4 @@ def polls_detail(request, pk):
     "created_by": poll.created_by.username,
     "pub_date": poll.pub_date
     }}
-    return JsonResponse(data) 
+    return JsonResponse(data)
