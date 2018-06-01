@@ -1,2 +1,7 @@
-# djangoapibook
-https://media.readthedocs.org/pdf/djangoapibook/latest/djangoapibook.pdf
+# Broodwar units API based on Django Rest Framework
+
+author: lex quarkie
+
+based on Django REST API book
+
+
