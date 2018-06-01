@@ -2,6 +2,8 @@
 
 author: lex quarkie
 
-based on Django REST API book
+unit stats: https://github.com/jncraton/BWMetaAI/edit/master/units.csv
+
+based on Django REST API book  https://media.readthedocs.org/pdf/djangoapibook/latest/djangoapibook.pdf
 
 
